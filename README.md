@@ -27,10 +27,8 @@ I like connecting hardware to backend systems and making them stable enough to r
 
 ## Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlankBoard01&show_icons=true&hide_title=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BlankBoard01&show_icons=true&hide_title=true&hide_border=true)
 
 ---
 
 > Build. Test. Break. Fix. Repeat.
-
-📍 Indonesia
