@@ -7,7 +7,7 @@ but I also enjoy working with web, servers, automation, and a bit of design.
 
 ## Focus
 
-- Embedded systems (Arduino/Espressif)
+- Embedded systems (Arduino / Espressif)
 - MQTT-based communication
 - Sensor-driven automation
 - Web-based control & monitoring
@@ -17,19 +17,17 @@ I like connecting hardware to backend systems and making them stable enough to r
 
 ---
 
-## What I Enjoy Exploring
+## Stack
 
-- IoT architecture & reliability
-- Network fundamentals
-- Linux environments
-- Automation workflows
-- Clean and simple interface design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,linux,mongodb,nginx&theme=dark" />
+</p>
 
 ---
 
 ## Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlankBoard01&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlankBoard01&show_icons=true&hide_title=true&hide_border=true)
 
 ---
 
