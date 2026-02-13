@@ -1,16 +1,38 @@
-## Hi there 👋
+# Satyaa
 
-<!--
-**BlankBoard01/BlankBoard01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things. Mostly around IoT —  
+but I also enjoy working with web, servers, automation, and a bit of design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Embedded systems (ESP8266 / ESP32)
+- MQTT-based communication
+- Sensor-driven automation
+- Web-based control & monitoring
+- Server configuration & system setup
+
+I like connecting hardware to backend systems and making them stable enough to run in the real world.
+
+---
+
+## What I Enjoy Exploring
+
+- IoT architecture & reliability
+- Network fundamentals
+- Linux environments
+- Automation workflows
+- Clean and simple interface design
+
+---
+
+## Activity
+
+![Stats](https://github-readme-stats.vercel.app/api?username=BlankBoard01&hide_title=true&hide_border=true&disable_animations=true)
+
+---
+
+> Build. Test. Break. Fix. Repeat.
+
+📍 Indonesia
