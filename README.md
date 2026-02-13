@@ -7,7 +7,7 @@ but I also enjoy working with web, servers, automation, and a bit of design.
 
 ## Focus
 
-- Embedded systems (ESP8266 / ESP32)
+- Embedded systems (Arduino/Espressif)
 - MQTT-based communication
 - Sensor-driven automation
 - Web-based control & monitoring
