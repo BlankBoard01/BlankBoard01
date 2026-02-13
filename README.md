@@ -29,7 +29,7 @@ I like connecting hardware to backend systems and making them stable enough to r
 
 ## Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BlankBoard01&hide_title=true&hide_border=true&disable_animations=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlankBoard01&theme=dark)
 
 ---
 
