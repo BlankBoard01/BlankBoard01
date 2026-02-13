@@ -20,7 +20,7 @@ I like connecting hardware to backend systems and making them stable enough to r
 ## Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,c,cpp,linux,mongodb,nginx,apache,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,c,cpp,postman,linux,mongodb,nginx,docker&theme=dark" />
 </p>
 
 ---
